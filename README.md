@@ -1,0 +1,2 @@
+# Dofus
+bot Dofus
